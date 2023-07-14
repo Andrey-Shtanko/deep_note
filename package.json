@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-responsive-linechart": "^5.7.1"
+  }
+}
